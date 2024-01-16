@@ -1,3 +1,4 @@
+### Demonstration Video
 
 ### Using mvn and npm
 - cd back-spring
@@ -15,6 +16,3 @@ npm run dev
 ```
  http://localhost:5173/
 ```
-### Data base
-- Import the 'dents.sql' database file into your local MySQL server 
-
